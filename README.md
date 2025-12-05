@@ -79,7 +79,10 @@ streamlit run HW1/src/app.py
 ```
 http://localhost:8501
 ```
-
+Или вот работающая уже ссылка:
+```
+https://huggingface.co/spaces/Dan032/ml_homework
+```
 ---
 
 # ML‑пайплайн
