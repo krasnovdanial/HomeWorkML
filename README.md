@@ -122,9 +122,9 @@ models/best_model_bundle.pkl
 
 Используется датасет `cleaned_train_before_ohe.csv` для EDA
 
-> *![img.png](src/figures/img_eda.png)*
-> *![img_1.png](src/figures/img_plot.png)*
-> *![img_2.png](src/figures/img_corr.png)*
+> *![img.png](HW1/src/figures/img_eda.png)*
+> *![img_1.png](HW1/src/figures/img_plot.png)*
+> *![img_2.png](HW1/src/figures/img_corr.png)*
 
 ---
 
@@ -134,7 +134,7 @@ models/best_model_bundle.pkl
 - визуализация через горизонтальный bar chart
 -
 
-> *![img_3.png](src/figures/img_weights.png)*
+> *![img_3.png](HW1/src/figures/img_weights.png)*
 
 ---
 
@@ -161,7 +161,7 @@ Mahindra
 Возраст: 10 лет
 ```
 
-> *![img.png](src/figures/img_predict.png)*
+> *![img.png](HW1/src/figures/img_predict.png)*
 
 ---
 
@@ -248,3 +248,4 @@ data/cleaned_test_data_after_ohe.csv
 - улучшить обработку выбросов;
 - реализовать SHAP‑интерпретацию модели;
 - добавить k‑fold cross‑validation для повышения стабильности итоговой модели.
+---
