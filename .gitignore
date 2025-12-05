@@ -20,3 +20,6 @@ env/
 *.zip
 *.tar.gz
 *.tmp
+
+pyproject.toml
+poetry.lock
